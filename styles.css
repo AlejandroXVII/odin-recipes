@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(201, 79, 32);
+    color: rgb(255, 255, 255);
+}
+body {
+    font-family: Helvetica, 'Times New Roman', Times;
+    background-color: rgb(250, 235, 207);
+}
+
+a {
+    font-style: oblique;
+    color: red;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+li {
+    font-size: 15px;
+    color: rgb(53, 53, 53);
+}
